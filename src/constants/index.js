@@ -120,7 +120,7 @@ import {
       company_name: "Starbucks",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "March 2023 - April 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -133,7 +133,7 @@ import {
       company_name: "Tesla",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Jan 2023 - Feb 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -143,7 +143,7 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
+      company_name: "Kenya Power and Lighting Company",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
@@ -156,7 +156,7 @@ import {
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
+      company_name: "Africkson",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
@@ -181,7 +181,7 @@ import {
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
+      name: "Esther",
       designation: "COO",
       company: "DEF Corp",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
@@ -189,7 +189,7 @@ import {
     {
       testimonial:
         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+      name: "Patience",
       designation: "CTO",
       company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
@@ -198,16 +198,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Rent App",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to search, book, and manage rent from various providers, providing a convenient and efficient solution for accomodation.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "flowbite",
           color: "green-text-gradient",
         },
         {
@@ -216,12 +216,12 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Wambeo/Landlord-App",
     },
     {
-      name: "Job IT",
+      name: "Polls App",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to create polls, view popular polls, and locate available polls based on their current location.",
       tags: [
         {
           name: "react",
@@ -232,12 +232,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Wambeo/Polls-App",
     },
     {
       name: "Trip Guide",
@@ -258,7 +258,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Wambeo/Portfolio-3D-Sam",
     },
   ];
   
